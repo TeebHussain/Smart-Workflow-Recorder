@@ -13,7 +13,7 @@ from fpdf import FPDF
 from PIL import Image, ImageDraw
 
 # OpenAI API Key
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = "9mdZ9rVmGa8betMM_fNZgsVuJdm_A_kBWTS6ROha60CT3BlbkFJjSPWzjPAEXkse0e8AoB3DVSYnmx1zOf-qr43ebTQfgGh4U4Km4stVUb0pP-Q1rn8F_riSa1kwA"  # Replace with your actual API key
 
 # Global Variables
 recording = True
